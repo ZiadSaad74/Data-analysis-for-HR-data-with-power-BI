@@ -1,6 +1,6 @@
 # Data-analysis-for-HR-data-with-power-BI
 
-This is new dashboard by Power BI. 
+## This is new dashboard by Power BI. 
 The data used in the project is (HR data) for a company in USA, which includes each employee details like:
 
 ### 1- His name and salary
