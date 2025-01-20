@@ -2,6 +2,7 @@
 
 This is new dashboard by Power BI. 
 The data used in the project is (HR data) for a company in USA, which includes each employee details like:
+
 1- His name and salary
 2- Social info like (Gender, state - Marital status - Date of birth)
 3- Hiring date and termination date if he's not an active employee
